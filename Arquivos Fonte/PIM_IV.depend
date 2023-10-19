@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1669331500 source:d:\gabi pc\6- faculdade\2° semestre\10. pim iv - sistema cadastro covid-19\pim_iv\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+
+1669340265 source:c:\users\gabir\onedrive\Área de trabalho\pim_iv\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+
+1669590310 source:c:\users\gabriela\downloads\pim iv - gabriela rebeca martins soares (ra 2261169)\arquivos fonte\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+
